@@ -1,3 +1,5 @@
+<img src=https://raw.githubusercontent.com/AbuRider/AbuRider/refs/heads/main/images.jpeg>
+Bakso tanpa tepung, Bokep
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbuRider&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
