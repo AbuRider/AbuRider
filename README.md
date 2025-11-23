@@ -1,4 +1,4 @@
-<img src=https://raw.githubusercontent.com/AbuRider/AbuRider/refs/heads/main/e61dc9cf94a6ff89057d6a4e34c3f374.jpg>
+<img src=https://raw.githubusercontent.com/AbuRider/AbuRider/refs/heads/main/5bc0cd7839fd2692abdfd4a9bc6435bd.jpg>
 Oke bang
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuRider&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
